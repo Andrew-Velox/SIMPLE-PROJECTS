@@ -1,2 +1,2 @@
-# Pattern
+# SIMPLE-PROJECTS
 🌸 Learning 🌸
