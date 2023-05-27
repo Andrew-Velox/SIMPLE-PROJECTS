@@ -13,7 +13,7 @@ Enter: 5
 #include <stdio.h>
 
 int main(){
-    int n,x,y,m=1;
+    int n,x,y;
 
     printf("Enter: ");
     scanf("%d",&n);
