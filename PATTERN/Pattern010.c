@@ -1,4 +1,4 @@
-"""
+/*
   _________________Output___________
   
 Enter: G
@@ -9,7 +9,7 @@ A B C D
 A B C
 A B
 A
-"""
+*/
 
 #include <stdio.h>
 
