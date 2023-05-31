@@ -24,18 +24,18 @@ int main(){
         for(y=1;y<=n-x;y++){
             printf(" ");
         }
-        for(y=1;y<=x-1;y++){
+        for(y=1;y<=x;y++){
             printf(" *");
         }
         printf("\n");
     }
     
-    for(x=n;x>=1;x--){
+    for(x=n-1;x>=1;x--){
         for(m=1;m<=n-x;m++){
             printf(" ");
         }
         for(y=1;y<=x;y++){
-            printf("* ");
+            printf(" *");
         }
         printf("\n");
         }
